@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,kmou424.moe
 # Tailscale
 DOMAIN-SUFFIX,log.tailscale.io
 DOMAIN-SUFFIX,controlplane.tailscale.com
+
+# PT
+DOMAIN-SUFFIX,pttime.org
