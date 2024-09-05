@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,controlplane.tailscale.com
 
 # PT
 DOMAIN-SUFFIX,pttime.org
+
+# missav
+DOMAIN-SUFFIX,surrit.com
