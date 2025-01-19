@@ -10,5 +10,11 @@ PROCESS-NAME,tailscaled.exe
 DOMAIN-SUFFIX,pttime.org
 
 # missav
-DOMAIN-SUFFIX,surrit.com
-DOMAIN-SUFFIX,fivetiu.com
+# DOMAIN-SUFFIX,surrit.com
+# DOMAIN-SUFFIX,fivetiu.com
+
+# nezha dashboard fetch ip
+DOMAIN-SUFFIX,blog.cloudflare.com
+DOMAIN-SUFFIX,developers.cloudflare.com
+DOMAIN-SUFFIX,hostinger.com
+DOMAIN-SUFFIX,ahrefs.com
